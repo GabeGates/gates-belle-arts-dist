@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.gatesbellearts.net</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2023-04-20</lastmod>
+    <image:image>
+      <image:loc>https://www.gatesbellearts.net/logo-30-30.png</image:loc>
+      <image:title>Gates Belle Arts | Dorina Gates</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.gatesbellearts.net/logo-250-250.png</image:loc>
+      <image:title>Feel the Colour | Dorina Gates</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.gatesbellearts.net/home-waterfall-400-315.jpg</image:loc>
+      <image:title>Waterfall | Dorina Gates</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.gatesbellearts.net/home-waterfall-bw-400-314.jpg</image:loc>
+      <image:title>Black &amp; White | Dorina Gates</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.gatesbellearts.net/home-poppees-400-309.jpg</image:loc>
+      <image:title>Poppees | Dorina Gates</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.gatesbellearts.net/home-pond-400-315.jpg</image:loc>
+      <image:title>Pond | Dorina Gates</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.gatesbellearts.net/home-morning-glow-400-316.jpg</image:loc>
+      <image:title>Early Morning Glow | Dorina Gates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gatesbellearts.net/about</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2023-04-20</lastmod>
+    <image:image>
+      <image:loc>https://www.gatesbellearts.net/logo-30-30.png</image:loc>
+      <image:title>Gates Belle Arts | Dorina Gates</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.gatesbellearts.net/about-main-150-200.png</image:loc>
+      <image:title>Artist | Dorina Gates</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.gatesbellearts.net/about-imperial-150-112.png</image:loc>
+      <image:title>Imperial Theatre | Dorina Gates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.gatesbellearts.net/contact</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2023-04-20</lastmod>
+    <image:image>
+      <image:loc>https://www.gatesbellearts.net/logo-30-30.png</image:loc>
+      <image:title>Gates Belle Arts | Dorina Gates</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.gatesbellearts.net/logo-300-300.png</image:loc>
+      <image:title>Feel the Colour | Dorina Gates</image:title>
+    </image:image>
+  </url>
+</urlset>

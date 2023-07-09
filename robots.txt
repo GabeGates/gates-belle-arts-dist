@@ -1,0 +1,3 @@
+Sitemap: https://www.gatesbellearts.net/sitemap.xml
+
+User-agent: *
